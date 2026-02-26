@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there! I'm Brian👋
 
+Currently, I am a biomedical engineering student studying in University of Malaya. 
+⚡ **Fun Fact:** My name is Brian but somehow my parents and friends might accidentaly spelled it as Brain.
 <!--
 **Liew0502/Liew0502** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
